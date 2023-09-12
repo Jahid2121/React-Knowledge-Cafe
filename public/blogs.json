@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/T1bF1G1/pexels-pixabay-267371.jpg",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "author_img": "https://i.ibb.co/9sqgMyp/hitesh-choudhary-t1-Pa-Ib-MTJIM-unsplash.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": "45 minutes",
+      "hashtags": ["fiction", "classics", "gardening"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/LdjPzfL/pexels-pixabay-261806.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "",
+      "posted_date": "2023-09-11",
+      "reading_time": "60 minutes",
+      "hashtags": ["fiction", "classics", "justice"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/LRbd6qY/pexels-monstera-production-6373405.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "",
+      "posted_date": "2023-09-10",
+      "reading_time": "55 minutes",
+      "hashtags": ["fiction", "classics", "roaring twenties"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/bFKQGmw/pexels-george-milton-6953871.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "author_img": "",
+      "posted_date": "2023-09-09",
+      "reading_time": "50 minutes",
+      "hashtags": ["fiction", "coming of age", "rebellion"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/7xhTXYK/pexels-eliza-ari-18207534.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "",
+      "posted_date": "2023-09-08",
+      "reading_time": "65 minutes",
+      "hashtags": ["fiction", "romance", "19th century"]
+    }
+  ]
+  
