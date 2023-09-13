@@ -4,17 +4,21 @@
       "cover": "https://i.ibb.co/T1bF1G1/pexels-pixabay-267371.jpg",
       "title": "The Secret Garden",
       "author": "Frances Hodgson Burnett",
-      "author_img": "https://i.ibb.co/9sqgMyp/hitesh-choudhary-t1-Pa-Ib-MTJIM-unsplash.jpg",
+      "author_img": " https://i.ibb.co/sQDZFdC/boy1.png",
       "posted_date": "2023-09-12",
       "reading_time": 45,
       "hashtags": ["fiction", "classics", "gardening"]
     },
+
+
+
+
     {
       "id": 2,
       "cover": "https://i.ibb.co/LdjPzfL/pexels-pixabay-261806.jpg",
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
-      "author_img": "https://i.ibb.co/WGJCbDR/daniel-gonzalez-Xx-J-HIXw25-M-unsplash.jpg",
+      "author_img": "https://i.ibb.co/1bY02BV/boy2.jpg",
       "posted_date": "2023-09-11",
       "reading_time": 60,
       "hashtags": ["fiction", "classics", "justice"]
@@ -24,7 +28,7 @@
       "cover": "https://i.ibb.co/LRbd6qY/pexels-monstera-production-6373405.jpg",
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "author_img": "https://i.ibb.co/ZYL4BR1/ashton-bingham-EQFt-Ez-JGERg-unsplash.jpg   ",
+      "author_img": "https://i.ibb.co/jDjs6gd/girl1.jpg",
       "posted_date": "2023-09-10",
       "reading_time": 55,
       "hashtags": ["fiction", "classics", "roaring twenties"]
@@ -34,7 +38,7 @@
       "cover": "https://i.ibb.co/bFKQGmw/pexels-george-milton-6953871.jpg",
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
-      "author_img": "https://i.ibb.co/7Wn3PRZ/albert-dera-ILip77-Sbm-OE-unsplash.jpg ",
+      "author_img": "https://i.ibb.co/fYhYYdf/girl2.jpg",
       "posted_date": "2023-09-09",
       "reading_time": 50,
       "hashtags": ["fiction", "coming of age", "rebellion"]
@@ -44,7 +48,7 @@
       "cover": "https://i.ibb.co/7xhTXYK/pexels-eliza-ari-18207534.jpg",
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
-      "author_img": "https://i.ibb.co/7SDPn9w/nasro-azaizia-1-NP6-Es-AYl8-unsplash.jpg",
+      "author_img": "https://i.ibb.co/FBNfBh5/profile.png",
       "posted_date": "2023-09-08",
       "reading_time": 65,
       "hashtags": ["fiction", "romance", "19th century"]
